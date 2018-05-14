@@ -1,6 +1,4 @@
-'''
-Created on 2018年5月11日
-'''
+
 '''
 Queue 和 Stack 在 Python 中都是有 list ,[] 实现的。 在python 
 list是一个dynamic array, 可以通过append在list的尾部添加元素， 通过pop()在list的尾部弹出元素实现Stack的FILO， 如果是pop(0)则弹出头部的元素实现Queue的FIFO。

@@ -1,5 +1,4 @@
 '''
-@author: liudp
 '''
 #单向链表
 class ListNode:

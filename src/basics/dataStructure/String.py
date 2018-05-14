@@ -1,6 +1,3 @@
-'''
-@author: liudp
-'''
 
 def printString():
     s1 = str()
